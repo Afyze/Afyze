@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/matrix-rain.svg" alt="Matrix rain: Afyze" width="100%" />
+  <img src="assets/matrix-rain.svg?v=2" alt="Matrix rain: Afyze" width="100%" />
 </p>
 
 <p align="center">
