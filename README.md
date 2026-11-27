@@ -16,7 +16,7 @@
 
 ### `> whoami`
 
-```bash
+```text
 afyze@matrix:~$ cat about.txt
   name      : Augustin
   role      : Computer Science student
